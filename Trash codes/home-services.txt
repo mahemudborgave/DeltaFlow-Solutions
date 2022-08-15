@@ -1,0 +1,83 @@
+<div id="services" class="parallax section lb">
+        <div class="container">
+            <div class="section-title text-center">
+                <h3>Our Service</h3>
+                <p class="lead">Our Service unlimited solutions to all your business needs. in the installation package we prepare search engine optimization, social media support, we provide corporate identity and graphic design services.</p>
+            </div>
+            <!-- end title -->
+
+            <div class="owl-services owl-carousel owl-theme">
+                <div class="service-widget">
+                    <div class="post-media wow fadeIn">
+                        <a href="uploads/service_01.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="uploads/service_01.jpg" alt="" class="img-responsive img-rounded">
+                    </div>
+                    <div class="service-dit">
+                        <h3>Fabrication and Installation of Industrial Piping Systems</h3>
+                        <p>Our superior knowledge and experience in fabricating and installing Advanced Thermoplastic Piping Systems, adhering to the highest industry-relevant DVS standards, make us one of the leading organisations in our industry. We offer
+                            a wide range of Piping Systems by their applications, besides dealing in Thermoplastic Sheets. Our high-quality material selection, expertise in welding methodology, state-of-the-art machines and tools, and highly skilled team
+                            across India and abroad ensure that we remain customers’ preferred partner for industrial plastic piping requirements. Kindly confirm this information and provide photos.
+
+
+                        </p>
+                    </div>
+                </div>
+                <!-- end service -->
+
+                <div class="service-widget">
+                    <div class="post-media wow fadeIn">
+                        <a href="uploads/service_02.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="uploads/service_02.jpg" alt="" class="img-responsive img-rounded">
+                    </div>
+                    <div class="service-dit">
+                        <h3> Solution Provider of Turnkey/ EPC Fluid Flow Solutions</h3>
+                        <p>With our rich industry experience and expertise in fluid flow solutions, we provide single-point turnkey/ EPC solutions with their applications, from design detailing, supply of material, to installation, with best-in-the-field
+                            product combinations that ensure cost-effective, high-quality solutions. Our products and solutions come with guarantees and warrantees that ensure smooth and efficient operations and a happy clientele that includes industries
+                            and consultants alike - something that is reflected from our esteemed client list and repeat orders. Kindly confirm this information and provide photos.
+
+                        </p>
+                    </div>
+                </div>
+                <!-- end service -->
+
+                <div class="service-widget">
+                    <div class="post-media wow fadeIn">
+                        <a href="uploads/service_03.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="uploads/service_03.jpg" alt="" class="img-responsive img-rounded">
+                    </div>
+                    <div class="service-dit">
+                        <h3> Supplier of Industrial Piping Systems</h3>
+                        <p>
+                            Delta Flow is the leading Authorized Marketing Associate, Distributor & Installer of (GF) Georg Fischer Piping Systems, one of the world leaders in plastic piping. We provide certified Georg Fischer Piping System Services worldwide. A Uni Klinger Ltd.
+                            Distributor in India, we specialise in turnkey piping systems. We are also an authorised dealer for KSB Valves. Kindly confirm this information and provide photos.
+
+                        </p>
+                    </div>
+                </div>
+                <!-- end service -->
+
+                <div class="service-widget">
+                    <div class="post-media wow fadeIn">
+                        <a href="uploads/service_04.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="uploads/service_04.jpg" alt="" class="img-responsive img-rounded">
+                    </div>
+                    <div class="service-dit">
+                        <h3> Manufacturer of Fabricated Plastic Tanks</h3>
+                        <p>We manufacture thermoplastic chemical storage tanks. Pl provide information and photos regarding this. .
+
+                        </p>
+                    </div>
+                </div>
+                <!-- end service -->
+            </div>
+            <!-- end row -->
+
+            <hr class="hr1">
+
+            <div class="text-center">
+                <a data-scroll href="#portfolio" class="btn btn-light btn-radius btn-brd">View Our Portfolio</a>
+            </div>
+        </div>
+        <!-- end container -->
+    </div>
+    <!-- end section -->

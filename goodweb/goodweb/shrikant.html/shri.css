@@ -1,0 +1,28 @@
+* {}
+
+h1 {
+    color: red;
+}
+
+.yellow {
+    color: yellow;
+}
+
+#h {
+    color: blueviolet;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    background-color: blueviolet;
+}
+
+th {
+    background-color: brown;
+}

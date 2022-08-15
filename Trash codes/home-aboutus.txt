@@ -1,0 +1,60 @@
+    <div id="about" class="section wb">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="message-box">
+                        <h4>About Us</h4>
+                        <h2>Welcome to Delta Flow Solutions</h2>
+                        <p class="lead">
+
+                            We are a team of people having excellent knowledge of installation of plastic PIPING SYSTEMS from last 30 years. We are a leading organisation that responds to the rapidly growing needs of our customers.</p>
+
+                        <a href="#services" class="btn btn-light btn-radius btn-brd grd1">Learn More</a>
+                    </div>
+                    <!-- end messagebox -->
+                </div>
+                <!-- end col -->
+
+                <div class="col-md-6">
+                    <div class="post-media wow fadeIn">
+                        <img src="uploads/about_01.jpg" alt="" class="img-responsive img-rounded">
+                        <a href="http://www.youtube.com/watch?v=nrJtHemSPW4" data-rel="prettyPhoto[gal]" class="playbutton"><i class="flaticon-play-button"></i></a>
+                    </div>
+                    <!-- end media -->
+                </div>
+                <!-- end col -->
+            </div>
+            <!-- end row -->
+
+            <hr class="hr1">
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="post-media wow fadeIn">
+                        <img src="uploads/about_02.jpg" alt="" class="img-responsive img-rounded">
+                    </div>
+                    <!-- end media -->
+                </div>
+                <!-- end col -->
+
+                <div class="col-md-6">
+                    <div class="message-box">
+                        <h4>Who We are</h4>
+                        <h2>We Are Delta Flow Solutions</h2>
+                        <p class="lead">
+
+                            Delta Flow, celebrates 21 years of success providing superior flow control solutions to worldwide customers. We were pioneer in our market and we have maintained our leadership position. We cater too many industrial segments- Chemical, High purity, Pharmaceuticals,
+                            Life sciences, Water treatment, Metal Surface treatment, etc. We provide large range of solid thermoplastic valves, pumps, tubing systems, specialty piping systems, filtration products, fabricated manifold, tank, pipe spools
+                            as well as we execute turnkey projects.</p>
+
+                        <a href="#services" class="btn btn-light btn-radius btn-brd grd1">Learn More</a>
+                    </div>
+                    <!-- end messagebox -->
+                </div>
+                <!-- end col -->
+            </div>
+            <!-- end row -->
+        </div>
+        <!-- end container -->
+    </div>
+    <!-- end section -->
